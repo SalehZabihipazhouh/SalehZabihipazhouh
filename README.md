@@ -17,6 +17,6 @@ I am a **Computer Science Undergraduate** at **Shiraz University**, currently fo
 
 ---
 
-### 📫 Connect
+### Connect
 *   **Email:** saleh.zabihipazhouh@gmail.com
 *   **LinkedIn:** www.linkedin.com/in/saleh-zabihipazhouh
