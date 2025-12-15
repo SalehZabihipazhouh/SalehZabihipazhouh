@@ -1,14 +1,13 @@
-### Hi there, I'm Saleh Zabihipazhouh! 👋
+### Hi there, I'm Saleh Zabihipazhouh
 
-I am a **Computer Science Undergraduate** at **Shiraz University**, focused on the intersection of **Mathematical Logic**, **Algorithms**, and **System Efficiency**.
+I am a **Computer Science Undergraduate** at **Shiraz University**, currently focused on **Machine Learning**.
 
-- 🔭 **Current Focus:** Advanced Data Structures & Linear Algebra applications.
-- 🏛️ **Community:** Active Member of the **Scientific Association of Mathematics and CS**.
-- 🛠️ **Tech Stack:** Python, C, C++, LaTeX, Git.
+- **Community:** Active Member of the **Scientific Association of Mathematics and CS**.
+- **Tech Stack:** Python, C, C++, LaTeX, Git.
 
 ---
 
-### 🚀 Featured Projects
+### My Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
