@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Saleh Zabihipazhouh! 👋
 
-<!--
-**SalehZabihipazhouh/SalehZabihipazhouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Undergraduate** at **Shiraz University**, focused on the intersection of **Mathematical Logic**, **Algorithms**, and **System Efficiency**.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Advanced Data Structures & Linear Algebra applications.
+- 🏛️ **Community:** Active Member of the **Scientific Association of Mathematics and CS**.
+- 🛠️ **Tech Stack:** Python, C, C++, LaTeX, Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Elevator Control System](https://github.com/SalehZabihipazhouh/Elevator-Control-System)** | Priority-scheduling simulation for high-rise infrastructure. | **C & Python** |
+| **[Crypto Forecasting](https://github.com/SalehZabihipazhouh/Crypto-Time-Series-Forecasting)** | Predicting market trends using ARIMA statistical modeling. | **Python (AI)** |
+| **[Algorithmic Solvers](https://github.com/SalehZabihipazhouh/Algorithmic-Pathfinding)** | Collection of graph theory and backtracking solutions (SCC, Knight's Tour). | **Python** |
+
+---
+
+### 📫 Connect
+*   **Email:** saleh.zabihipazhouh@gmail.com
+*   **LinkedIn:** www.linkedin.com/in/saleh-zabihipazhouh
